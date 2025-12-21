@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.pickle
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+.Python
+
+# Virtual environment
+venv/
+env/
+myenv/
+ENV/
+.venv
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+logs/
+
+# Local data & persistence
+chroma_db/
+*.sqlite
+*.sqlite3
+*.db
+outputs/
+embeddings/
+vector_store/
+data/uploads/
+
+# Streamlit
+.streamlit/
+.streamlit/config.toml.backup
+
+# IDE temporary files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# macOS
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+
+# Windows
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Test artifacts
+test_output/
+test_results/
+
