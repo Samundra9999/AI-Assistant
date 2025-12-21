@@ -31,6 +31,7 @@ opencv-python
 opencv-contrib-python
 pdf2image
 Pillow
+fitz
 PyMuPDF
 pdfplumber
 PyPDF2
@@ -51,4 +52,5 @@ regex
 
 # Let pip handle protobuf version automatically
 protobuf
+
 
