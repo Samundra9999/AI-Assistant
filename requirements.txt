@@ -31,6 +31,9 @@ opencv-python
 opencv-contrib-python
 pdf2image
 Pillow
+PyMuPDF
+pdfplumber
+PyPDF2
 requests
 python-dotenv
 fastapi
@@ -48,3 +51,4 @@ regex
 
 # Let pip handle protobuf version automatically
 protobuf
+
