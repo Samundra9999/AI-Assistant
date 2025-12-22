@@ -34,7 +34,7 @@ This project is built with FastAPI, LangChain, HuggingFace Embeddings, Vector Da
 
 ## System Architecture
 
-![alt text](image.png)
+![alt text](image1.png)
 
 
 ## Technologies Used
