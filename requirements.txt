@@ -31,6 +31,7 @@ dotenv==0.9.9
 durationpy==0.10
 etelemetry==0.3.1
 fastapi==0.127.0
+fitz==0.0.1.dev2
 filelock==3.20.1
 flatbuffers==25.12.19
 frozenlist==1.8.0
@@ -130,6 +131,8 @@ pydeck==0.9.1
 pydot==4.0.1
 Pygments==2.19.2
 PyMuPDF==1.26.7
+pymupdf
+tools
 pyparsing==3.2.5
 pypdf==6.5.0
 pypdfium2==5.2.0
@@ -196,4 +199,5 @@ xxhash==3.6.0
 yarl==1.22.0
 zipp==3.23.0
 zstandard==0.25.0
+
 
